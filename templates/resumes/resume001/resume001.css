@@ -1,0 +1,42 @@
+body {
+    margin-top: 40px;
+    margin-left: 100px
+}
+
+.name {
+    font-size: 40px
+}
+
+.job-title {
+    color: #00aa43;
+    font-size: large
+}
+
+.contact-information {
+    color: #666666;
+    font-size: small
+}
+
+.contact-container {
+    margin-bottom: 30px
+}
+
+
+.category-title {
+    color: #25b75f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.category-content-list {
+    font-size:small
+}
+.category-content-title{
+    font-weight: bold;
+    font-size:small
+}
+.category-content-subtitle {
+    color: #666666;
+    font-size:smaller
+}
